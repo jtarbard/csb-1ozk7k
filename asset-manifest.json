@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://jtarbard.github.io/csb-1ozk7k/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://jtarbard.github.io/csb-1ozk7k/static/js/main.773308ab.chunk.js",
+    "main.js.map": "https://jtarbard.github.io/csb-1ozk7k/static/js/main.773308ab.chunk.js.map",
+    "runtime-main.js": "https://jtarbard.github.io/csb-1ozk7k/static/js/runtime-main.22e73ae5.js",
+    "runtime-main.js.map": "https://jtarbard.github.io/csb-1ozk7k/static/js/runtime-main.22e73ae5.js.map",
+    "static/js/2.02f1c83c.chunk.js": "https://jtarbard.github.io/csb-1ozk7k/static/js/2.02f1c83c.chunk.js",
+    "static/js/2.02f1c83c.chunk.js.map": "https://jtarbard.github.io/csb-1ozk7k/static/js/2.02f1c83c.chunk.js.map",
+    "index.html": "https://jtarbard.github.io/csb-1ozk7k/index.html",
+    "precache-manifest.4e9f02a78a4dfa4a562244712855ca87.js": "https://jtarbard.github.io/csb-1ozk7k/precache-manifest.4e9f02a78a4dfa4a562244712855ca87.js",
+    "service-worker.js": "https://jtarbard.github.io/csb-1ozk7k/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://jtarbard.github.io/csb-1ozk7k/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.02f1c83c.chunk.js.LICENSE": "https://jtarbard.github.io/csb-1ozk7k/static/js/2.02f1c83c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e73ae5.js",
+    "static/js/2.02f1c83c.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.773308ab.chunk.js"
+  ]
+}
